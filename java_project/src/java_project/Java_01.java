@@ -5,23 +5,12 @@ public class Java_01 {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
-		System.out.println("ÀÏÁ¤ °èÈ¹");
-		System.out.println("1) ¸Ú»ç 2ÇĞ±â È°µ¿ ¸¶¹«¸®");
-		System.out.println("2) °ø°­½Ã°£¿¡ Àü°ø°ú¸ñ ¿¹½À º¹½À ÇÏ±â");
-		System.out.println("3) ÀÚ¹Ù ÇÃÁ§");
+		System.out.println("ì¼ì • ê³„íš");
+		System.out.println("1) ë°•í˜„ë ¬: í´ë¼ì´ì–¸íŠ¸");
+		System.out.println("2) ê¹€ìœ¤ì„œ: ë””ë¹„");
+		System.out.println("3) ë°•ì†Œì •: ì•ˆë“œë¡œì´ë“œ ìŠ¤íŠœë””ì˜¤");
 		
-		System.out.println("»ó¼¼°èÈ¹: ÁÖÁ¦: ³ª¸¸ÀÇ À¥ ´ÙÀÌ¾î¸® ¸¸µé±â\r\n" + 
-				"\r\n" + 
-				"1) °èÈ¹ Â¥±â\r\n" + 
-				"2) »çÁø ¾÷·ÎµåÇÏ±â\r\n" + 
-				"3) ¼öÁ¤ »èÁ¦ (CRUD ±¸Çö)\r\n" + 
-				"4) ÇÁ·ÎÇÊ ¸¸µé±â\r\n" + 
-				"( ºÎÆ®½ºÆ®·¦ Å×¸¶ ÀÌ¿ë, Ã¼Å©¹Ú½º¸¦ ÀÌ¿ëÇØ ÇÏ·ç °èÈ¹ ´Ş¼º Ã¼Å©ÇÏ±â, ±×·¡ÇÁ Ç¥ÇöÇÏ±â, °Ô½ÃÆÇ ¸¸µé±â )\r\n" + 
-				"");
-		System.out.println("mysql, springÀ» È°¿ëÇÑ µ¥ÀÌÅÍ º£ÀÌ½º °ü¸®");
-		System.out.println("±×·¡ÇÁ Ç¥Çö °øºÎÇÏ±â");
-		
-		
+		System.out.println("ìƒì„¸ê³„íš: ê³µìš© ì»´í“¨í„°ë“¤ì˜ ìƒíƒœë¥¼ ì„œë²„ë¡œ ì „ì†¡í•´ ì‚¬ìš©ìë“¤ì—ê²Œ ê³µìœ í•˜ëŠ” ì–´í”Œë¦¬ì¼€ì´ì…˜\r\n" );	
 	}
 
 }
